@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gloval-bibdata"
+version = "0.1.0"
+description = "Tools for bibliometric analysis of Scopus and Web of Science data"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "networkx",
+    "wordcloud",
+    "openpyxl",
+    "bibtexparser==2.0.0b7",
+    "pycountry",
+    "rapidfuzz",
+    "scipy",
+    "spacy",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
