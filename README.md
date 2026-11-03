@@ -86,7 +86,7 @@ The `scimagojr_2025_area.csv` file is a dataset compiled and prepared for GLOVAL
 
 This dataset is used by the `GlovalBibData.process_data()` function to support the classification and processing of bibliographic records.
 
-The dataset is available in the repository under the `data/` directory.
+The dataset is available in the repository under the `data/scimagojr_2025_area.csv` directory.
 
 ## Version and Compatibility
 
