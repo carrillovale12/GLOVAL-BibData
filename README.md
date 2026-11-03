@@ -39,7 +39,6 @@ Install the package directly using:
 ```python
 %pip install https://github.com/carrillovale12/GLOVAL-BibData/releases/download/v0.1.0/gloval_bibdata-0.1.0-cp313-cp313-linux_x86_64.whl
 ```
-
 After installation, restart the Python runtime if requested.
 
 ### Import the library
@@ -64,14 +63,13 @@ from gloval_bibdata import (
     SankeyFlows
 )
 ```
-
 ## Google Colab Tutorial
 
 A public Google Colab notebook is available to guide users through the installation and use of GLOVAL-BibData.
 
 The notebook includes installation instructions, bibliographic database preparation, database integration and cleaning, PRISMA diagrams, bibliometric analysis, and visualization examples.
 
-**[Open GLOVAL-BibData in Google Colab](https://colab.research.google.com/github/carrillovale12/GLOVAL-BibData/blob/main/GLOVAL-BibData.ipynb)**
+**[Open GLOVAL-BibData in Google Colab](https://raw.githubusercontent.com/carrillovale12/GLOVAL-BibData/refs/heads/main/GLOVAL_BibData.ipynb)**
 
 Users can run the notebook in Google Colab without installing Python locally.
 
@@ -130,7 +128,7 @@ ORCID: [0009-0003-6923-0402](https://orcid.org/0009-0003-6923-0402)
 
 - **GitHub repository:** [GLOVAL-BibData](https://github.com/carrillovale12/GLOVAL-BibData)
 - **GitHub Releases:** [Available versions](https://github.com/carrillovale12/GLOVAL-BibData/releases)
-- **Google Colab tutorial:** [Open notebook](https://colab.research.google.com/github/carrillovale12/GLOVAL-BibData/blob/main/GLOVAL_BibData.ipynb)
+- **Google Colab tutorial:** [Open notebook](https://raw.githubusercontent.com/carrillovale12/GLOVAL-BibData/refs/heads/main/GLOVAL_BibData.ipynb)
 
 ---
 
