@@ -25,6 +25,16 @@ To develop a Python-based toolkit that automates the integration, processing, an
 
 GLOVAL-BibData is distributed as a compiled Python wheel.
 
+### SCImago Journal Rank Dataset
+
+The `scimagojr_2025_area.csv` file is a dataset compiled and prepared for GLOVAL-BibData using publicly available information from SCImago Journal Rank (SJR).
+
+**Source:** SCImago Journal Rank  
+**Data year:** 2025  
+**File format:** CSV  
+**Delimiter:** Semicolon (`;`)
+
+This dataset is used by the `GlovalBibData.process_data()` function to support the classification and processing of bibliographic records.
 **Requirements:**
 - Python 3.13
 - Linux x86_64 environment (the current binary release)
