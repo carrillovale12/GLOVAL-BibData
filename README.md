@@ -71,7 +71,7 @@ A public Google Colab notebook is available to guide users through the installat
 
 The notebook includes installation instructions, bibliographic database preparation, database integration and cleaning, PRISMA diagrams, bibliometric analysis, and visualization examples.
 
-**[Open GLOVAL-BibData in Google Colab](https://colab.research.google.com/github/carrillovale12/GLOVAL-BibData/blob/main/GLOVAL_BibData.ipynb)**
+**[Open GLOVAL-BibData in Google Colab](https://colab.research.google.com/github/carrillovale12/GLOVAL-BibData/blob/main/GLOVAL-BibData.ipynb)**
 
 Users can run the notebook in Google Colab without installing Python locally.
 
