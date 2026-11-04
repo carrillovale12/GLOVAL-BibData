@@ -1,4 +1,6 @@
-# GLOVAL-BibData
+# GLOVAL-BibData 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23926958.svg)](https://doi.org/10.5281/zenodo.23926958)
 
 **A Python library for bibliometric analysis of Scopus and Web of Science databases.**
 
