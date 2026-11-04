@@ -1,6 +1,6 @@
 # GLOVAL-BibData 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23926958.svg)](https://doi.org/10.5281/zenodo.23926958)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23926958.svg)](https://doi.org/10.5281/zenodo.23926959)
 
 **A Python library for bibliometric analysis of Scopus and Web of Science databases.**
 
@@ -114,11 +114,17 @@ See the [LICENSE](LICENSE) file for the complete terms.
 
 GLOVAL-BibData is archived in Zenodo and can be cited using the following DOI:
 
-[https://doi.org/10.5281/zenodo.23926958](https://doi.org/10.5281/zenodo.23926958)
+[https://doi.org/10.5281/zenodo.23926959](https://doi.org/10.5281/zenodo.23926959)
 
 Please cite GLOVAL-BibData when using this package in academic publications or research projects.
 
-**Zenodo DOI:** `10.5281/zenodo.23926958`
+**Zenodo DOI:** `10.5281/zenodo.23926959`
+
+## How to cite
+
+If you use GLOVAL-BibData in your research, please cite the software as follows:
+
+Carrillo Líbano, V., & Gómez Osorio, G. (2026). *GLOVAL-BibData* (Version v0.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23926959
 
 ## Authors
 
