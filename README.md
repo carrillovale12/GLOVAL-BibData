@@ -108,11 +108,15 @@ Commercial use, modification, redistribution, and other uses not expressly permi
 
 See the [LICENSE](LICENSE) file for the complete terms.
 
-## Citation
+## DOI and Citation
 
-If you use GLOVAL-BibData in academic research, publications, theses, or other scientific outputs, please acknowledge and cite the software.
+GLOVAL-BibData is archived in Zenodo and can be cited using the following DOI:
 
-A DOI will be provided through Zenodo once the repository has been connected and the software release has been archived.
+[https://doi.org/10.5281/zenodo.23926958](https://doi.org/10.5281/zenodo.23926958)
+
+Please cite GLOVAL-BibData when using this package in academic publications or research projects.
+
+**Zenodo DOI:** `10.5281/zenodo.23926958`
 
 ## Authors
 
