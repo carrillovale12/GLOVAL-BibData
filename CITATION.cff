@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use GLOVAL-BibData, please cite it using the following reference."
+title: "GLOVAL-BibData"
+type: software
+authors:
+  - family-names: "Carrillo Líbano"
+    given-names: "Valentina"
+  - family-names: "Gómez Osorio"
+    given-names: "Gloria"
+version: "0.1.0"
+doi: "10.5281/zenodo.23926959"
+repository-code: "https://github.com/carrillovale12/GLOVAL-BibData"
+url: "https://doi.org/10.5281/zenodo.23926959"
