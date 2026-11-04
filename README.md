@@ -114,7 +114,7 @@ See the [LICENSE](LICENSE) file for the complete terms.
 
 GLOVAL-BibData is archived in Zenodo and can be cited using the following DOI:
 
-[https://doi.org/10.5281/zenodo.23926959](https://doi.org/10.5281/zenodo.23954086)
+[https://doi.org/10.5281/zenodo.23954086](https://doi.org/10.5281/zenodo.23954086)
 
 Please cite GLOVAL-BibData when using this package in academic publications or research projects.
 
